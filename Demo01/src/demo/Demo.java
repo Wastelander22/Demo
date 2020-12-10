@@ -10,4 +10,9 @@ public class Demo {
 	public static int add (int a, int b) {
 		return a+b;
 	}
+	public static int sub (int x, int y) {
+		return x-y;
+	}
+	
+	
 }

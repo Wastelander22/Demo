@@ -4,7 +4,7 @@ public class Demo {
 
 	public static void main(String[] args) {
 
-
+		System.out.println("add 3rd commit");
 	}
 
 	public static int add (int a, int b) {
